@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cac541d-d1bc-49b3-accb-afd80aecdd53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddAgain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Back.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fernabance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargeAndSmall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Number5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakfast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/human/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sentinelLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Ac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Accountt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Airconditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tdd/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/AcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/AccounttTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/Airconditionertest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/BikeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/tdd/TvTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N6HSUcQbIuJajYlPTJurHdAHGI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;/home/user/IdeaProjects/javaProject/src/tdd&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tdd" />
+      <recent name="human" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="tdd" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PrimeNumber">
+    <configuration name="AddAgain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddAgain" />
+      <module name="javaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargeAndSmall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LargeAndSmall" />
+      <module name="javaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Power" />
+      <module name="javaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumber" />
+      <module name="javaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sum" />
+      <module name="javaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.Sum" />
+        <item itemvalue="Application.AddAgain" />
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.LargeAndSmall" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cac541d-d1bc-49b3-accb-afd80aecdd53" name="Changes" comment="" />
+      <created>1678977620762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678977620762</updated>
+      <workItem from="1678977624047" duration="3951000" />
+      <workItem from="1679053601595" duration="3926000" />
+      <workItem from="1679141979283" duration="18575000" />
+      <workItem from="1679667751348" duration="3064000" />
+      <workItem from="1679772343796" duration="10268000" />
+      <workItem from="1679906440678" duration="9287000" />
+      <workItem from="1679942281945" duration="7313000" />
+      <workItem from="1680095594510" duration="14229000" />
+      <workItem from="1680509532172" duration="1274000" />
+      <workItem from="1680612333569" duration="31082000" />
+      <workItem from="1681114542369" duration="13739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
