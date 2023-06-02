@@ -19,7 +19,7 @@ public class Number3 {
                   validNumber++;
                 }
                 conter = conter +1;
-            }
+            }   
 
 
             System.out.println("total sum is" + sum);

@@ -4,7 +4,7 @@ public class LargeAndSmall {
     public static void main(String[] args) {
         int small = 0;
         int large = 0;
-        int number = 0;
+        int number;
 
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number: ");

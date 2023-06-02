@@ -3,6 +3,13 @@ package tdd;
 public class Account {
     private int balance;
 
+    public Account(String rotimiNicol, int i) {
+    }
+
+    public Account() {
+
+    }
+
     public void deposit(int amount) {
         if (amount > 0)
             balance = balance + amount;
@@ -18,6 +25,8 @@ public class Account {
         return balance;
     }
 
+    public void setName(String victoria) {
+    }
 }
 
 
