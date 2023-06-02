@@ -4,108 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cac541d-d1bc-49b3-accb-afd80aecdd53" name="Changes" comment="initail commit">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/DoubleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/DoubleArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/LargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/SumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter2/Exercise2_35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/Petrol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3Test/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3Test/PetrolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/CreditLimitCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/GasMileage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/SalesCommissionCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/CardType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Mystack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListToArray/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Amphibian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Apes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Invertebrate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/LivingThings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Mammals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Pices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Plants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Reptiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reflection/Vertebrate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Television/NigeriaZone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Television/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dairyApp/Dairy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dairyApp/Gist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiplicatiom/multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personality/MBTIdriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/personality/Personalloan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DairyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MultiplyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/MyStackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/LivingThingsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/tdd/MyLIstTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Account1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Back.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Chaptherseven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/CreditLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/DimentionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Fahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Gas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Get.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Population.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worksheet/Trick1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/AddAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fernabance.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Fernabance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LargeAndSmall.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/LargeAndSmall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Multiplication1.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Multiplication1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nokia.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Nokia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number2.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Number2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number3.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Number3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number4.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Number4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Number5.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Number5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Power.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Weather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/Word.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/breakfast.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/breakfast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/human/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/loop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sentinelLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/sentinelLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tdd/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tdd/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/worksheet/whileLoop.java" afterDir="false" />
-    </list>
+    <list default="true" id="3cac541d-d1bc-49b3-accb-afd80aecdd53" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,6 +55,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -284,7 +184,7 @@
       <workItem from="1684758836390" duration="4238000" />
       <workItem from="1684926609068" duration="11099000" />
       <workItem from="1685087895901" duration="18151000" />
-      <workItem from="1685474941735" duration="7155000" />
+      <workItem from="1685474941735" duration="7467000" />
     </task>
     <task id="LOCAL-00001" summary="initail commit">
       <created>1681131076737</created>
@@ -293,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681131076738</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initail commit">
+      <created>1685694603850</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685694603850</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initail commit">
+      <created>1685694707490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685694707490</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
